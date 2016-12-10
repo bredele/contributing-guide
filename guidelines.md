@@ -23,6 +23,8 @@ With that being said it is important to:
   - to increment the breaking version number for any braking changes (even small)
   - name releases for humans
 
+see [inspiration](https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783)
+
 ## Issue Reporting Guidelines
 
 The issue list of the repository you working on is exclusively for feature requests, ideas and bug reports. Issues that do not conform with our [code of conduct](/community.md) will be closed immediately.
