@@ -1,13 +1,13 @@
 # Contribution guidelines
 
- >[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
+ >[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide)
 
-Building software should be safe for everyone. GitHub is made up of millions of developers around the world, ranging from the new developer to the most well-known software developers in the world. The following [guidelines](https://github.com/bredele/contributing-guide/blob/master/community.md) intend to create a welcoming environment where people feel empowered to share their opinion and aren't silenced by fear or shouted down.
+Building software should be safe for everyone. GitHub is made up of millions of developers around the world, ranging from the new developer to the most well-known software developers in the world. The following [guidelines](https://github.com/bredele/contributing-guide/blob/master/guidelines.md) intend to create a welcoming environment where people feel empowered to share their opinion and aren't silenced by fear or shouted down.
 
 ## Badge
 
 ```
-[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
+[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide)
 ```
 
 ## Contribution
