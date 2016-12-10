@@ -3,10 +3,25 @@
 Before submitting your contribution, please make sure to take a moment and read through the following guidelines.
 
 - [Community guidelines](/community.md)
+- [Versioning Guidelines](#versioning-guidelines)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
 
 Thank you very much for your interest, we are really excited working with you.
+
+## Versioning Guidelines
+
+This guideline proposes a simple set of rules and requirements that dictate how version numbers are assigned and incremented. Given a version number BREAKING.FEATURE.FIX, increment the:
+  * BREAKING version for any breaking changes, even small.
+  * FEATURE version when you add functionality in a backwards-compatible manner
+  * FIX version when you make backwards-compatible bug fixed
+
+We believe that releases and versions are two different concepts. Similar to semantic versioning, we consider though that the major version (or BREAKING) should be an indication for software that there is a breaking change down coming down the pipe. This new versioning format allows developers to break code and push often. They don't have to resist the need to advance the breaking version (major) because they're not yet ready to release their software.
+
+With that being said it is important to:
+  - start with the version 1.0.0 (instead 0.X.X)
+  - to increment the breaking version number for any braking changes (even small)
+  - name releases for humans
 
 ## Issue Reporting Guidelines
 
